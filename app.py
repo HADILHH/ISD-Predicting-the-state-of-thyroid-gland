@@ -53,4 +53,4 @@ if st.button('Predict'):
     if prediction == 1:
         st.write("Prediction: You have thyroid cancer")
     else:
-        st.write("Prediction: You are  thyroid cancer")
+        st.write("Prediction: You are healthy")
